@@ -32,3 +32,4 @@ web3==1.2.7
 requests==1.0.3
 web3==1.2.4
 requests==0.5.8
+requests==0.8.6
