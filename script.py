@@ -28,3 +28,4 @@
 # fix 9008
 # optimize 8468
 # fix 1838
+# fix 3707
