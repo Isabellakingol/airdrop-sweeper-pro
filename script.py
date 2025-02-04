@@ -82,3 +82,4 @@
 # fix 7592
 # fix 6070
 # refactor 6453
+# refactor 7615
